@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+:root{
+    --primary-color: #db3333;
+    --secondary-color: #333333;
+    --third-color: #e0c00b;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--third-color);
+}
+
+img {
+    border-radius: 8px;
+  }
